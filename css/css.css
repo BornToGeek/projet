@@ -1,0 +1,70 @@
+/*POLICES*/
+
+/* FIN POLICES*/
+
+/*SELECS*/
+* {
+font-family: Open sans, arial;
+}
+/*FIN SELECS*/
+
+/*STRUCTURE*/
+
+body{
+  background-image: url('../images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*background-attachment: fixed;*/
+}
+
+a{
+  text-decoration: none;
+  color: #fff;
+}
+
+ul, ol{
+  list-style: none;
+}
+
+p{
+  color: #fff;
+}
+
+nav ol li{
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ol li a{
+  text-transform: uppercase;
+}
+
+footer ul li{
+  display: inline-block;
+  vertical-align: bottom;
+  margin-right: 20px;
+
+}
+
+footer ul {
+margin-bottom: 50px;
+
+}
+
+nav ol, footer ul, footer p{
+  text-align: center;
+}
+
+/*FIN STRUCTURE*/
+
+
+
+
+
+
+
+
+
+
+
+
